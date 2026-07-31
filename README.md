@@ -1,4 +1,4 @@
-# CodeAlpha Internship - Task 3
+# CodeAlpha Internship - Task 2
 ## Secure Coding Review
 
 ### Project Overview
